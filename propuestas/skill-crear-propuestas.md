@@ -3,7 +3,7 @@ name: crear-propuestas
 description: Crea propuestas comerciales personalizadas para servicios de marketing, branding, contenido, automatización, consultoría y sesiones. Úsala cuando necesites redactar o estructurar una propuesta para un cliente final.
 ---
 
-# Generador de propuestas
+# Crear propuestas profesionales
 
 ## Objetivo
 Redactar propuestas claras, persuasivas y profesionales con la mínima fricción posible.
