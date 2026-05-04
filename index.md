@@ -5,7 +5,7 @@ Skill:  Crear Propuestas Profesionales
 
 # Crear Propuestas
 
-Skill para crear propuestas profesionales, ordenadas y listas para enviarlas.
+Skill de Claude AI para crear propuestas profesionales, ordenadas y listas para enviarlas.
 
 [![Ver y descargar la skill](https://img.shields.io/badge/Ver%20y%20descargar%20la%20skill-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://github.com/jonatancorrea-ai/crear-propuestas/blob/main/propuestas/skill-crear-propuestas.md)
 
